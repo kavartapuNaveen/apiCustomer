@@ -1,0 +1,6 @@
+SUCCESS - Test api-customer-test-suite-get:/customer/{id}:api-customer-configTest1 finished Successfully.
+SUCCESS - Test api-customer-test-suite-get:/customer/{id}:api-customer-configTest finished Successfully.
+
+=============================================================================
+Tests run: 2 - Failures: 0 - Errors: 0 - Skipped: 0 - Time elapsed: 8.814 sec
+=============================================================================
